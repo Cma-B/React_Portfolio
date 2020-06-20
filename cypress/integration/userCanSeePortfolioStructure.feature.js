@@ -6,3 +6,4 @@ describe('Portfolio interface', () => {
       cy.get('#hello').should('contain', 'Hello World');
     })
   })
+  
