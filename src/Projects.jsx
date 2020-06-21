@@ -19,7 +19,7 @@ class Projects extends Component {
           </div>
         );
       });
-    };
+    }
 
   return (
     <div className="ui main container">
@@ -28,7 +28,7 @@ class Projects extends Component {
            <UndrawDashboard primaryColor='12283a' height='200px' />
          </div>
          <div className="column">
-           <h1 className="ui header">My Projects</h1>
+           <h1 id="projects-header" className="ui header">My Projects</h1>
            <p>
              Would you like to know about the projects done by me
            </p>
