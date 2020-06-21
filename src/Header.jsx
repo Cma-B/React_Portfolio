@@ -24,7 +24,16 @@ const Header = () => {
           to="/projects"
           >
             Projects
+          </NavLink>  
+           <NavLink
+            id="mycv-tab"
+            className="ui item"
+            activeStyle={{ fontWeight: "bold" }}
+            to="/mycv"
+          >
+            My CV
           </NavLink>
+
         </div>
       </div>
     </nav>

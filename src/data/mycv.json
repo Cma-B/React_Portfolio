@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "My Career Life",
+      "image": "https://image.spreadshirtmedia.com/image-server/v1/mp/compositions/T812A2MPA3140PT17X68Y47D13669673FS3028/views/1,width=100,height=100,appearanceId=2,backgroundColor=000000,noPt=true,version=1581947588/technical-sales-manager-mens-premium-t-shirt.jpg",
+      "description": "I started my career journey as a technical sales manager right after graduation from the university,I persued it for 8 years. It seems I was stuck in it!"
+    },
+    {
+      "id": 2,
+      "name": "Polymer Engineering",
+      "image": "https://s3.eu-north-1.amazonaws.com/images.free-apply.com/uni/gallery/lg/1036400022/16f6f971e8b8786d0069be42164152339e73d3e8.jpg",
+      "description": "I have recieved my bachelore degree in Polymer engineering at AmirKabir University of Technology in Iran."
+    },
+    {
+      "id": 3,
+      "name": "Strategic Information Systems Management",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nod_Kista.jpg/1024px-Nod_Kista.jpg",
+      "description": "I currently study master program at departement of Computer and System Science,The focus is on design, implementation, use and evolution of information systems for any organisation in today's complex digital world. "
+    }
+  ]
