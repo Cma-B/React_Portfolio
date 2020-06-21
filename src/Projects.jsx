@@ -46,6 +46,6 @@ componentDidMount() {
       });
     });
 };
-}
+};
 
 export default Projects;
