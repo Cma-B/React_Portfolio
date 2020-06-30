@@ -6,9 +6,9 @@ const Header = () => {
     <nav className="ui fixed inverted menu">
       <div className="ui container">
         <Link id="header" className="header item" to="/">
-          My Portfolio
+         
         </Link>
-        <div className="right menu">
+        <div className="left menu">
           <NavLink
           id="about-tab"
           className="ui item"
@@ -17,6 +17,8 @@ const Header = () => {
           >
             About Me
           </NavLink>
+        </div>
+        <div className="right menu">
           <NavLink
           id="projects-tab"
           className="ui item"
@@ -33,8 +35,8 @@ const Header = () => {
           >
             My CV
           </NavLink>
-
-        </div>
+          </div>
+        
       </div>
     </nav>
   );

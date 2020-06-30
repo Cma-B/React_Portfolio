@@ -1,7 +1,6 @@
 import React, {Component} from "react";
 import axios from "axios";
 import MyCVCard from "./MyCVCard";
-import { UndrawJobHunt} from "react-undraw-illustrations";
 
 class MyCV extends Component {
   state = {
@@ -25,7 +24,7 @@ class MyCV extends Component {
     <div className="ui main container">
       <div className="ui stackable two column grid">
         <div className="column">
-          <UndrawJobHunt primaryColor='#12283a' height='200px'/>
+        
         </div>
         <div className="column">
         <h1 id="mycv-header" className="ui header">My CV</h1>
