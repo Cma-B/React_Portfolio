@@ -2,11 +2,18 @@ import React from "react";
 
 const Hello = () => {
   return (
-  <div className="ui main container">
-    <h1 id="hello">PORTFOLIO</h1>
-    <div>
-          <img src={"https://biblicalcounseling.com/wp-content/uploads/2018/12/jazmin-quaynor-105210-unsplash.jpg"} />
+    <div className="ui main container">
+      <div class="ui stackable two column grid">
+        <div class="column">
+         
         </div>
+        <div class="column">
+          <h1 id="hello" className="ui header">PORTFOLIO</h1>
+          <p>
+ SIMA BOREIRI
+          </p>
+        </div>
+      </div>
     </div>
   );
 };
